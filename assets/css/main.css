@@ -1845,6 +1845,10 @@ input, select, textarea {
 			padding: 3em;
 		}
 
+		.box .link {
+			float: right;
+		}
+
 			.box.style1 .image {
 				display: block;
 				position: absolute;
